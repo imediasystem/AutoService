@@ -3,6 +3,8 @@
 ## 🔥 Project Name - AUTOSERVICE
 See the live version of [AUTOSERVICE](https://imediasystem.github.io/AutoService/) ↗️
 
+A website design for a local car repair shop. The site informs customers about the services provided and encourages them to schedule an appointment for car repairs. HTML, CSS, JavaScript, Bootstrap, LESS, and SASS technologies were used.
+
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
