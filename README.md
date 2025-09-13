@@ -1,3 +1,5 @@
+<img width="1902" height="927" alt="Zrzut ekranu 2025-09-12 170353" src="https://github.com/user-attachments/assets/e83d7982-d4d8-4b3e-80cc-649203a23ba3" />
+
 ## 🔥 Project Name - AUTOSERVICE
 See the live version of [AUTOSERVICE](https://imediasystem.github.io/AutoService/) ↗️
 
