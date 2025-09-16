@@ -17,3 +17,7 @@ A website design for a local car repair shop. The site informs customers about t
 ## 🔗 See also
 Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
+
+## 📝 Feel free to contact me
+Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
+&nbsp;
